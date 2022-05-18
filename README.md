@@ -19,6 +19,10 @@ Click Here : [https://yaozeliang.github.io/resume/](https://yaozeliang.github.io
 
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,aws,git,gitlab,heroku,grafana&theme=light)](https://skillicons.dev)
 
+### Data Analysis & Viz
+![D3.js](https://www.vectorlogo.zone/logos/d3js/d3js-icon.svg)
+![Power BI](https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg)
+
 ### Cloud Datalake
 
 ![Dremio](https://www.vectorlogo.zone/logos/dremio/dremio-ar21.svg)
