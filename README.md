@@ -1,4 +1,4 @@
-# Hi, I'm Zeliang , Python Developer
+# Hi, I'm Zeliang , Python/BigData Developer
 
 
 ### My Resume
@@ -22,3 +22,7 @@ Check it out : [https://yaozeliang.github.io/resume/](https://yaozeliang.github.
 ### Cloud Datalake
 
 Dremio S3_Outscale
+
+### Doc & IDE
+
+[![My Skills](https://skillicons.dev/icons?i=md,vscode&theme=light)](https://skillicons.dev)
