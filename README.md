@@ -23,7 +23,7 @@ Click Here : [https://yaozeliang.github.io/resume/](https://yaozeliang.github.io
 
  -![D3.js](https://www.vectorlogo.zone/logos/d3js/d3js-icon.svg)
 
- -![Power BI](https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg)
+ -![Power BI](https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg)
 
 ### Cloud Datalake
 
