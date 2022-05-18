@@ -2,7 +2,7 @@
 
 
 ### My Resume
-Check it out : [https://yaozeliang.github.io/resume/](https://yaozeliang.github.io/resume/)
+Click Here : [https://yaozeliang.github.io/resume/](https://yaozeliang.github.io/resume/)
 
 ### Dev Web
 > Front-end
@@ -21,7 +21,8 @@ Check it out : [https://yaozeliang.github.io/resume/](https://yaozeliang.github.
 
 ### Cloud Datalake
 
-Dremio S3_Outscale
+![Dremio](https://www.vectorlogo.zone/logos/dremio/dremio-ar21.svg)
+
 
 ### Doc & IDE
 
