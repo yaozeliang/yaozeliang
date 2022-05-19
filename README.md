@@ -21,9 +21,8 @@ Click Here : [https://yaozeliang.github.io/resume/](https://yaozeliang.github.io
 
 ### Data Analysis & Viz
 
- -![D3.js](https://www.vectorlogo.zone/logos/d3js/d3js-icon.svg)
+<img src="https://www.vectorlogo.zone/logos/d3js/d3js-icon.svg" alt="drawing" width="50"/>  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="drawing" width="120"/>  <img src="https://i0.wp.com/cloudsys.no/wp-content/uploads/2019/02/PowerApps-Logo.png?ssl=1" alt="drawing" width="50"/>
 
- -![Power BI](https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg)
 
 ### Cloud Datalake
 
