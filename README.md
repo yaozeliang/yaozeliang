@@ -11,9 +11,7 @@ Click Here : [https://yaozeliang.github.io/resume/](https://yaozeliang.github.io
 
 > Back-end & Database
 
-[![My Skills](https://skillicons.dev/icons?i=python,linux&theme=light)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=django,mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,linux&theme=light)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=django,mysql&theme=light)](https://skillicons.dev)
 
 > Deployment & Cloud
 
