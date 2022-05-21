@@ -33,7 +33,6 @@ Click Here : [https://yaozeliang.github.io/resume/](https://yaozeliang.github.io
 
 [![My Skills](https://skillicons.dev/icons?i=md,vscode&theme=light)](https://skillicons.dev)
 
-### Test & API
+### API
 
-<img src="https://pandwarf.com/wp/wp-content/uploads/2021/11/swagger-banner.png" alt="drawing" width="200"/>
-
+<img src="https://pandwarf.com/wp/wp-content/uploads/2021/11/swagger-banner.png" alt="drawing" width="100"/> <img src="https://www.django-rest-framework.org/img/logo.png" alt="drawing" width="150"/> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="drawing" width="150"/>
