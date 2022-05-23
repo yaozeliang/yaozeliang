@@ -13,7 +13,7 @@ Click Here : [https://yaozeliang.github.io/resume/](https://yaozeliang.github.io
 
 [![My Skills](https://skillicons.dev/icons?i=python,linux&theme=light)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=django,mysql&theme=light)](https://skillicons.dev)
 
-> Deployment & Cloud
+### Deployment & Cloud
 
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,aws,git,gitlab,heroku,grafana&theme=light)](https://skillicons.dev)
 
