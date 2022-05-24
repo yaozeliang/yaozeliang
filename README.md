@@ -19,17 +19,14 @@ Click Here : [https://yaozeliang.github.io/resume/](https://yaozeliang.github.io
 
 ### Data Analysis & Viz
 
-<img src="https://www.vectorlogo.zone/logos/d3js/d3js-icon.svg" alt="drawing" width="50"/>  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="drawing" width="120"/>  <img src="https://i0.wp.com/cloudsys.no/wp-content/uploads/2019/02/PowerApps-Logo.png?ssl=1" alt="drawing" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/d3js/d3js-icon.svg" width="50"/>  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" width="150"/>  <img src="https://i0.wp.com/cloudsys.no/wp-content/uploads/2019/02/PowerApps-Logo.png?ssl=1" alt="drawing" width="80"/>
 
 
 ### Cloud Datalake Engine
+<img src="https://www.vectorlogo.zone/logos/dremio/dremio-ar21.svg"  width="150"/>
 
-![Dremio](https://www.vectorlogo.zone/logos/dremio/dremio-ar21.svg)
-
-
-### Distributed Storage
-
-![Dremio](https://www.vectorlogo.zone/logos/dremio/dremio-ar21.svg)
+### Distributed Object Storage
+<img src="https://infraops.info/content/images/size/w1000/2020/12/minio-logo.png" alt="drawing" width="150"/>
 
 ### Doc & IDE
 
