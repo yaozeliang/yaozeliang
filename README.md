@@ -26,7 +26,7 @@ Click Here : [https://yaozeliang.github.io/resume/](https://yaozeliang.github.io
 <img src="https://www.vectorlogo.zone/logos/dremio/dremio-ar21.svg"  width="150"/>
 
 ### Distributed Object Storage
-<img src="https://infraops.info/content/images/size/w1000/2020/12/minio-logo.png" alt="drawing" width="150"/>
+<img src="https://min.io/resources/img/logo/MINIO_wordmark.png" alt="drawing" width="150"/>
 
 ### Doc & IDE
 
