@@ -1,8 +1,10 @@
-# I'm Zeliang, a Python/BigData Developer
+# I m Zeliang, a Python/BigData Developer!
 
 
 ### My Resume
-Click Here : [https://yaozeliang.github.io/resume/](https://yaozeliang.github.io/resume/)
+[https://yaozeliang.github.io/resume/](https://yaozeliang.github.io/resume/)
+
+![](https://img.shields.io/badge/python-3.10-orange?style=for-the-badge&logo=python&logoColor=orange)
 
 ### Dev Web
 > Front-end
@@ -35,3 +37,8 @@ Click Here : [https://yaozeliang.github.io/resume/](https://yaozeliang.github.io
 ### API
 
 <img src="https://pandwarf.com/wp/wp-content/uploads/2021/11/swagger-banner.png" alt="drawing" width="150"/> <img src="https://www.django-rest-framework.org/img/logo.png" alt="drawing" width="150"/> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="drawing" width="150"/>
+
+### Stats
+
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaozeliang)
+
