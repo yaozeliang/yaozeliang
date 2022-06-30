@@ -4,7 +4,8 @@
 ### My Resume
 [https://yaozeliang.github.io/resume/](https://yaozeliang.github.io/resume/)
 
-![](https://img.shields.io/badge/python-3.10-orange?style=for-the-badge&logo=python&logoColor=orange)
+
+![](https://img.shields.io/badge/python-3.10-orange?style=flat&logo=python&logoColor=orange) ![Profile Views](https://komarev.com/ghpvc/?username=thesharing)
 
 ### Dev Web
 > Front-end
@@ -24,11 +25,8 @@
 <img src="https://www.vectorlogo.zone/logos/d3js/d3js-icon.svg" width="50"/>  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" width="150"/>  <img src="https://i0.wp.com/cloudsys.no/wp-content/uploads/2019/02/PowerApps-Logo.png?ssl=1" alt="drawing" width="80"/>
 
 
-### Cloud Datalake Engine
-<img src="https://www.vectorlogo.zone/logos/dremio/dremio-ar21.svg"  width="150"/>
-
-### Distributed Object Storage
-<img src="https://min.io/resources/img/logo/MINIO_wordmark.png" alt="drawing" width="150"/>
+### Cloud Datalake / Distributed Storage
+<img src="https://www.vectorlogo.zone/logos/dremio/dremio-ar21.svg"  width="150"/> <img src="https://min.io/resources/img/logo/MINIO_wordmark.png" alt="drawing" width="150"/>
 
 ### Doc & IDE
 
@@ -40,5 +38,11 @@
 
 ### Stats
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaozeliang)
+
+![Thesharing's github stats](https://github-readme-stats.vercel.app/api?username=yaozeliang&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&line_height=28&hide_border=true&hide_title=true)
+
+### Trophy
+
+
+![My Github Trophy](https://github-profile-trophy.vercel.app/?username=yaozeliang&theme=flat&no-bg=true&no-frame=true&column=7)
 
