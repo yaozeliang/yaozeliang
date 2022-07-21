@@ -22,15 +22,24 @@
 
 ### Data Analysis & Viz
 
-<img src="https://www.vectorlogo.zone/logos/d3js/d3js-icon.svg" width="50"/>  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" width="150"/>  <img src="https://i0.wp.com/cloudsys.no/wp-content/uploads/2019/02/PowerApps-Logo.png?ssl=1" alt="drawing" width="80"/>
+<img src="https://i0.wp.com/www.dataunlock.com.au/wp-content/uploads/2021/08/image.png?resize=444%2C183&ssl=1" width="120"/>  
 
+### Cloud Datalake
 
-### Cloud Datalake / Distributed Storage
-<img src="https://www.vectorlogo.zone/logos/dremio/dremio-ar21.svg"  width="150"/> <img src="https://min.io/resources/img/logo/MINIO_wordmark.png" alt="drawing" width="150"/>
+<img src="https://www.vectorlogo.zone/logos/dremio/dremio-ar21.svg"  width="150" height='70'/> 
+
+### Index & Search
+
+<img src="https://www.vectorlogo.zone/logos/algolia/algolia-icon.svg"  width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg"  width="45" height="45"/> 
+
+### SAAS
+
+<img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg"/> 
 
 ### Doc & IDE
 
-[![My Skills](https://skillicons.dev/icons?i=md,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=md,vscode,atom,bash&theme=light)](https://skillicons.dev) 
+
 
 ### API
 
