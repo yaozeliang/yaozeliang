@@ -1,4 +1,4 @@
-# Hi, I m Zeliang, a Python/BigData Developer! 
+# Hi, I m Zeliang, a Python/BigData Developer
 
 
 ### My Resume
