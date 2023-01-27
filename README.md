@@ -1,8 +1,8 @@
-# Hi, I m Zeliang, a Python/BigData Developer
+# Hi, I m Zeliang, a Python/BigData Developer 💻☁️
 
 
 ### My Resume
-[https://yaozeliang.github.io/resume/](https://yaozeliang.github.io/resume/)
+❤️  [https://yaozeliang.github.io/resume/](https://yaozeliang.github.io/resume/) ❤️
 
 
 ![](https://img.shields.io/badge/python-3.10-orange?style=flat&logo=python&logoColor=orange) ![Profile Views](https://komarev.com/ghpvc/?username=thesharing)
