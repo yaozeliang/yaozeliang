@@ -16,9 +16,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,linux&theme=light)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=django,mysql,sqlite,redis&theme=light)](https://skillicons.dev)
 
-### Deployment & Cloud
+### DevOps & Cloud & CICD
 
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,aws,git,gitlab,heroku,grafana&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,azure,docker,aws,git,gitlab,heroku,grafana&theme=light)](https://skillicons.dev)
+
 
 ### Data Analysis & Viz
 
