@@ -2,7 +2,7 @@
 
 
 ### My Resume
-❤️  [https://yaozeliang.github.io/resume/](https://yaozeliang.github.io/resume/) ❤️
+❤️  [https://hephaestus.fr](https://hephaestus.fr) ❤️
 
 
 ![](https://img.shields.io/badge/python-3.10-orange?style=flat&logo=python&logoColor=orange) ![Profile Views](https://komarev.com/ghpvc/?username=thesharing)
