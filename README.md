@@ -47,12 +47,15 @@
 
 ### Cosmetic dermatology 
 
-Click here [https://filler-knowledge-li9dg.ondigitalocean.app/](https://filler-knowledge-li9dg.ondigitalocean.app/) to check Knowledge Base (CHN) for cosmetic products
+Click here [https://fillerwiki.info/](https://fillerwiki.info) to check Knowledge Base (CHN) for cosmetic products
 - Botulinum Toxin
 - Dermal Filler
 - Mesotherapy / Skin booster
 - Lipodissolve Injection
 
+Dermal Filler API:
+
+- [https://filler-wiki-api-716370690441.europe-west4.run.app/docs](Fillerwiki API)
 
 ### Stats
 
