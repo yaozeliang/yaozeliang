@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Edu+QLD+Beginner&weight=500&size=30&pause=1000&color=F7EF8F&background=478CFFDA&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Zeliang+YAO;Dev+Python+%2F+Devops+%2F+Cloud)](https://git.io/typing-svg)
 
 
-### My Resume
-❤️  [https://hephaestus.fr](https://hephaestus.fr) ❤️
+### Portfolio Website (Django|Nextjs)
+[https://hephaestus.fr](https://hephaestus.fr) 
 
 
 ![](https://img.shields.io/badge/python-3.10-orange?style=flat&logo=python&logoColor=orange) ![Profile Views](https://komarev.com/ghpvc/?username=thesharing)
