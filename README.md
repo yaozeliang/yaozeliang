@@ -41,9 +41,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=md,vscode,atom,bash&theme=light)](https://skillicons.dev) 
 
-### API
-
-<img src="https://pandwarf.com/wp/wp-content/uploads/2021/11/swagger-banner.png" alt="drawing" width="150"/> <img src="https://www.django-rest-framework.org/img/logo.png" alt="drawing" width="150"/> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="drawing" width="150"/>
 
 ### Cosmetic dermatology 
 
