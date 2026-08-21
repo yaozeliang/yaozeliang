@@ -54,11 +54,3 @@ Dermal Filler API:
 
 - [https://filler-wiki-api-716370690441.europe-west4.run.app/docs](Fillerwiki API)
 
-### Stats
-
-![Thesharing's github stats](https://github-readme-stats.vercel.app/api?username=yaozeliang&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&line_height=28&hide_border=true&hide_title=true)
-
-### Trophy
-
-![My Github Trophy](https://github-profile-trophy.vercel.app/?username=yaozeliang&theme=flat&no-bg=true&no-frame=true&column=7)
-
